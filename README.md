@@ -1,7 +1,7 @@
 # martianrun
 Little copy-and-run demo of the tutorial by [William Mora](http://williammora.com/a-running-game-with-libgdx-part-1)
 
-### 稍微总结一下自己对着抄代码也能够遇到的bugs:
+稍微总结一下自己~~对着抄代码也能够~~遇到的bugs:
 
 |序号    |详细                                                           |
 |-------|:-------------------------------------------------------------:|
